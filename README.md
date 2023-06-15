@@ -24,17 +24,9 @@ If your README is long, add a table of contents to make it easy for users to fin
 N/A
 
 ## Usage
-
-```md ![aside-image-2-benefit-brand](assets/images/brand-awareness.png)```
-```md ![aside-image-3-benefit-cost](assets/images/cost-management.png)```
-```md ![background image](assets/images/digital-marketing-meeting.jpg)```
-```md ![aside-image-1-benefit-lead](assets/images/lead-generation.png)```
-```md ![main-section-image-2-online-reputation-management](assets/images/online-reputation-management.jpg)```
-```md ![main-section-image-1-search-engine-optimization](assets/images/search-engine-optimization.jpg)```
-```md ![main-section-image-3-social-media-marketing](assets/images/social-media-marketing.jpg)```
-```md ![This is in my README.md alt text N/A](assets/images/badge-1.txt)```
-```md ![This is in my README.md alt text N/A](assets/images/badge-2.txt)```
-
+    
+![Horiseon Refactor Image][screenshot]
+    
 ## Credits
 
 https://github.com/sucheta90
@@ -62,3 +54,5 @@ Ryan.business.bowen@gmail.com
 
 ## Tests
 N/A
+
+[screenshot]: C:\Users\ryanb\bootcamp\RefactorHoriseon\assets\images\screenshot.png
