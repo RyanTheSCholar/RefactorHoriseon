@@ -1,6 +1,6 @@
 # RefactorHoriseon
 
-https://ryanthescholar.github.io/RefactorHoriseon/
+[Horiseon Refactor](https://ryanthescholar.github.io/RefactorHoriseon/)
 
 ## Description
 
