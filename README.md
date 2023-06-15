@@ -25,7 +25,7 @@ N/A
 
 ## Usage
     
-![Horiseon Refactor Image][screenshot]
+![Horiseon Refactor Image](./assets/images/screenshot.png)
     
 ## Credits
 
@@ -54,5 +54,3 @@ Ryan.business.bowen@gmail.com
 
 ## Tests
 N/A
-
-[screenshot]: C:\Users\ryanb\bootcamp\RefactorHoriseon\assets\images\screenshot.png
