@@ -42,8 +42,6 @@ N/A
 ![HTML](https://img.shields.io/badge/HTML-57.6%25-orange)
 ![CSS](https://img.shields.io/badge/CSS-42.4%25-blue)
 
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
 ## Features
 
 N/A
