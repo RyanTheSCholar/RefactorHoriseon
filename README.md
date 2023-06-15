@@ -1,5 +1,7 @@
 # RefactorHoriseon
 
+https://ryanthescholar.github.io/RefactorHoriseon/
+
 ## Description
 
 - I wanted to do this for to learn the proper way to clean up the code with in css and index.html
@@ -23,7 +25,15 @@ N/A
 
 ## Usage
 
-N/A
+```md ![](assets/images/brand-awareness.png)````
+```md ![](assets/images/cost-management.png)````
+```md ![](assets/images/digital-marketing-meeting.jpg)````
+```md ![](assets/images/lead-generation.png)````
+```md ![](assets/images/online-reputation-management.jpg)````
+```md ![](assets/images/search-engine-optimization.jpg)````
+```md ![](assets/images/social-media-marketing.jpg)````
+```md ![](assets/images/badge-1.txt)````
+```md ![](assets/images/badge-2.txt)````
 
 ## Credits
 
